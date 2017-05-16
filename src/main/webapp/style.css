@@ -1,0 +1,38 @@
+/* style.css
+ * This file provides css styles.
+ */
+body, html {
+	background-color: #3b4b54;
+	width: 100%;
+	height: 100%;
+	margin: 0 auto;
+	font-family: "HelveticaNeue-Light", "Helvetica Neue Light",
+		"Helvetica Neue", "HelvLightIBM", Arial, sans-serif; font-weight : 100;
+	font-size : 15px;
+	color: #ffffff;
+	font-weight: 100;
+	font-size: 15px;
+}
+
+a {
+	color: #00aed1;
+}
+
+h1 {
+	font-weight: bold;
+	font-size: 2em;
+	padding-left: 10%;
+	padding-right: 10%;
+	margin: 0 auto;
+	text-align: center;
+}
+
+
+.blue {
+	color: #00aed1;
+}
+
+
+.center {
+	padding-top: 10%;
+}

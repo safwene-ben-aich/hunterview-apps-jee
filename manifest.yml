@@ -1,0 +1,6 @@
+---
+applications:
+- name: JavaHunterViews2017TT
+  memory: 2048M
+  host: JavaHunterViews2017TT
+  domain: mybluemix.net
